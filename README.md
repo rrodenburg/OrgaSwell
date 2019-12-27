@@ -14,4 +14,4 @@ In a second [post_processing.ipynb](./post_processing.ipynb), we estimate the av
 Particle Tracking | Swell regression | Swell Rates
 :-:|:-:|:-:
 <img src="examples/particle_tracking.png" heigth="250"/> | <img src="examples/size_regression.png" heigth="250" width="250"/> | <img src="examples/mean_swell_rate.png" heigth="250"/>
-x, y position for each organoid in all 13 movie frames | Linear regression to estimate the swell rate of all detected organoids in the movie | The mean swell rate of multiple movies. No organoid swelling is observed for most wells, however, clear swelling organoids is observed in well 16.
+x, y position for each organoid in all 13 movie frames | Linear regression to estimate the swell rate of all detected organoids in the movie | The mean swell rate of multiple movies. No organoid swelling is observed for most wells, however, clear swelling of organoids is observed in well 16.
